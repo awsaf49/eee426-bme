@@ -1,7 +1,7 @@
 # Remote Health Monitor & Alert System with ECG and PPG Signal
 >  EEE 426: Biomedical Signals, Instrumentation and Measurement Laboratory
 
-![image](https://github.com/awsaf49/eee426-bme/assets/36858976/0ae052d0-ba62-4198-9873-b40e7f51ce8c)
+![image](https://github.com/awsaf49/eee426-bme/assets/36858976/183bbfd9-df07-473c-a393-4097f4e6e5ab)
 
 
 
